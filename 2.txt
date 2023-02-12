@@ -39,6 +39,7 @@ xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.
 xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.wixx-ebanner.wixx-ebanner--flex-center
 xhwebsite4.com##.clearfix.comments-container.comments-section > .width-wrap
 xhwebsite4.com##.rendered.horizontal.as-width-wrap.wixx-ecams-widget
+xhwebsite4.com##.horizontal.as-width-wrap.wixx-ecams-widget
 xhwebsite4.com##.clipstore-bottom.width-wrap
 xhwebsite4.com##.xplayer-banner-bottom
 br.xhwebsite4.com##.rendered.no-update.underplayer.wixx-ecams-widget > .item-container
