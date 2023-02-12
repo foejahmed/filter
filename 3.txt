@@ -1,0 +1,53 @@
+[ublock origin]
+! Version: 1.46.0
+! Title: Block List 3
+! Description: Filters optimized for uBlock
+! Expires: update frequency
+! Last modified: %timestamp%
+! Homepage:  https://raw.githubusercontent.com/foejahmed/BrowserFilter/main/3.txt
+!
+!
+xvideos.com###video-ad 
+xvideos.com##+js(aopr, fuckAdBlock)
+xvideos.com###content > div:nth-child(2)
+www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
+www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
+
+youtube.com###chat
+youtube.com##.ytp-ce-element	!end screen link
+*$script,3p,denyallow=cloudflare.net|fastly.net|google.com|googleapis.com|gstatic.com|jwpcdn.com|jsdelivr.net|eastream.net|youtube.com|ytimg.com,domain=vidfast.co
+
+!fb  hide comment for tab image saver addon        
+ www.facebook.com##div.cwj9ozl2:nth-of-type(4)
+ 
+ 
+! Analytics - Metrics - Telemetry
+/^(s|[a-z0-9\-]*\-)?analytics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/^(s|[a-z0-9\-]*\-)?metrics?(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/^([a-z0-9\-]*\-)?telemetry(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
+/^piwik\.[a-z0-9\-]*\./
+
+
+!best
+pornmd.com##.suggestions-container
+gotporn.com##.clearfix.video-items-feed > li.live-video-item.video-item > .gravity-push.video-item-link, .sidebar
+boy18tube.com##.random-td
+429men.com##div.container:nth-child(3) > div.content:nth-child(4) > div.block-video:first-child > div.table:first-child
+
+!other
+xhamster3.com##.wio-p.wio-pplayer
+twinkvideos.com##.more-videos, .aside > div, #commentView
+onlygayvideo.com##.table
+onlygayvideo.com###list_videos_related_videos
+onlygayvideo.com##center
+txxx.com##.video-ad-videos, .video-comments.comments, .video-comments.comments, .video-ad-videos, .video-videos-slider, .suggestion
+upornia.com##.video-related
+pornone.com##.container.main > .container.content.video_wrapper > .videos.thumblist
+vikiporn.com##.bottom-banners, .categories-list.block-cats, .content-aside
+viptube.icu##.main > div.stem_related.stem
+viptube.icu###spot_video_underplayer_livecams, .comments-form.form_field, #spot_video_partner_banner, .partner_text_link
+vivatube.net###spot_video_underplayer_livecams
+xvideos.com###tabComments_bottom_page
+yeptube.com###spot_video_underplayer_livecams, div.mt10.container:nth-of-type(6), .tr-download, .tr-sponsor
+yeswegays.com###list_videos_related_videos_ajax > .related-videos.box, .categories-list.categories.box
+yeswegays.com##div.box:nth-of-type(3), .video-comment.comments.box, .wrapper-holder > div.container, .footer, .thumb_spots

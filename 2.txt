@@ -1,0 +1,44 @@
+[ublock origin]
+! Version: 1.46.0
+! Title: Block List 2
+! Description: Filters optimized for uBlock
+! Expires: update frequency
+! Last modified: %timestamp%
+! Homepage:  https://raw.githubusercontent.com/foejahmed/BrowserFilter/main/2.txt
+!
+! block element
+ragalahari.com###st-2
+ragalahari.com###st-el-1
+ragalahari.com###caricature-continer
+www.ragalahari.com###form1 > .card
+ragalahari.com##.card
+ragalahari.com##.trc_rbox_div.trc_rbox_border_elm
+ragalahari.com##.mybotcard-container
+ragalahari.com##.small-11.medium-3.column.btm-latestnews
+ragalahari.com###raga-header
+ragalahari.com##.show-for-large
+www.socialnews.xyz###mybotstagecrn
+www.socialnews.xyz##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
+www.telugubulletin.com##.tdc-row-content-vert-center.tdc-element-style.td-pb-row.wpb_row.tdi_25.vc_row
+
+! block element
+www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
+www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
+www.xnxx.com###video-ad
+xnxx.com##+js(aopr, fuckAdBlock)
+xnxx.com,xvideos.*###ad-footer
+www.xvideos.com##.thread-video-comments.x-thread
+www.3movs.com##.header
+www.3movs.com##.p-ig.playside
+www.3movs.com##.p-ig.breadcrumbs
+www.3movs.com##.form_field.comment-holder.block-comments
+lontv.cc###header
+xhamster3.com##.promo
+xhwebsite4.com##header
+xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4)
+xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.wixx-ebanner.wixx-ebanner--flex-center
+xhwebsite4.com##.clearfix.comments-container.comments-section > .width-wrap
+xhwebsite4.com##.rendered.horizontal.as-width-wrap.wixx-ecams-widget
+xhwebsite4.com##.clipstore-bottom.width-wrap
+xhwebsite4.com##.xplayer-banner-bottom
+br.xhwebsite4.com##.rendered.no-update.underplayer.wixx-ecams-widget > .item-container

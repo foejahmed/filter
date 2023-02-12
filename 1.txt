@@ -1,0 +1,44 @@
+[ublock origin]
+! Version: 1.46.0
+! Title: Foej Block List
+! Description: Filters optimized for uBlock
+! Expires: update frequency
+! Last modified: %timestamp%
+! Homepage:  https://raw.githubusercontent.com/foejahmed/BrowserFilter/main/1.txt
+!
+!
+!fb popup notification  !frend request   !side bar ads
+www.facebook.com##.x78zum5 .xi55695
+www.facebook.com##.x1y1aw1k.xwib8y2 > div > div > .x1lliihq.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.xeuugli.x2lwn1j.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl > .x1gg8mnh.x1ja2u2z.x1n2onr6.xexx8yu.xurb0ha.x1sxyh0.x18d9i69.xeuugli.xdj266r.x1mh8g0r.x11i5rnm.xat24cr.x1qughib.xs83m0k.x1iyjqo2.x1q0g3np.x78zum5.x9f619.x972fbf.x13fuv20.xm0m39n.x26u7qi.xcfux6l.xu3j5b3.x1qhh985.x1q0q8m5.x6s0dn4
+www.facebook.com##span > div > .x1n2onr6 > .xwib8y2.x1y1aw1k
+
+!google tools 
+google.com###maia-header
+google.com###maia-nav-x
+google.com###maia-main > div.editor:nth-child(6) > div.c1.ng-scope:last-child > button.ugc-button.md-button.md-ink-ripple > small.ng-scope:first-child
+www.google.com###maia-main > .maia-cols
+
+!remove brand logo
+youtube.com##.branding-img-container
+!block overlay pics
+youtube.com##.ytp-ad-overlay-image
+!block chat
+youtube.com###chat
+
+! Hide Like count
+www.youtube.com##button.yt-spec-button-shape-next--segmented-start > .yt-spec-button-shape-next--button-text-content
+! Hide text of dislike/share/download/save buttons 
+www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
+www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next__icon:style(margin-right: -6px !important; margin-left: -6px !important;)
+
+!pre roll ads
+youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
+youtube.com###promotion-shelf
+*_ad_$media,domain=youtube.com,3p
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer,ytm-promoted-sparkles-web-renderer
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com,youtubekids.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
+youtube.com##.ytlr-horizontal-list-renderer__items > .yt-virtual-list__container > .yt-virtual-list__item--visible.yt-virtual-list__item--selected.yt-virtual-list__item:has-text(Ad)
