@@ -4,7 +4,7 @@
 ! Description: Filters optimized for uBlock
 ! Expires: update frequency
 ! Last modified: %timestamp%
-! Homepage:  https://raw.githubusercontent.com/foejahmed/BrowserFilter/main/1.txt
+! Homepage:  https://raw.githubusercontent.com/foejahmed/filter/main/1.txt
 !
 !
 !fb popup notification  !frend request   !side bar ads
