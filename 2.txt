@@ -21,6 +21,10 @@ www.socialnews.xyz###mybotstagecrn
 www.socialnews.xyz##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
 www.telugubulletin.com##.tdc-row-content-vert-center.tdc-element-style.td-pb-row.wpb_row.tdi_25.vc_row
 
+
+||google-analytics.com^$important                  
+||doubleclick.net^$important
+
 ! block element
 www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
 www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
