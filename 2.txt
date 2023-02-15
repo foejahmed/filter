@@ -33,18 +33,16 @@ www.3movs.com##.p-ig.playside
 www.3movs.com##.p-ig.breadcrumbs
 www.3movs.com##.form_field.comment-holder.block-comments
 lontv.cc###header
-br.xhwebsite4.com##.rendered.no-update.underplayer.wixx-ecams-widget > .item-container
-xhamster3.com##.promo
-xhwebsite4.com##header
-xhwebsite4.com##.wixx-e.bottom-widget-section > .width-wrap
-xhwebsite4.com##.clipstore-bottom.width-wrap
-xhwebsite4.com##.video-thumb.wixx-ecam-thumb__look-like-item.wixx-ecam-thumb--live-red.wixx-ecam-thumb
-xhwebsite4.com###player-container > div.xplayer-banner-bottom:nth-child(4) > div.banner-wrapper:first-child > a:last-child > img
+br.xhwebsite5.com##.rendered.no-update.underplayer.wixx-ecams-widget > .item-container
+xhwebsite5.com##header
+xhwebsite5.com##.wixx-e.bottom-widget-section > .width-wrap
+xhwebsite5.com##.clipstore-bottom.width-wrap
+xhwebsite5.com##.video-thumb.wixx-ecam-thumb__look-like-item.wixx-ecam-thumb--live-red.wixx-ecam-thumb
+xhwebsite5.com###player-container > div.xplayer-banner-bottom:nth-child(4) > div.banner-wrapper:first-child > a:last-child > img
 ! ! !
-xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(3) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4) > div.wixx-ecams-widget.vertical.no-update.null > div.item-container:nth-child(2)
-xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4) > div.wixx-ecams-widget.vertical.no-update.null > div.item-container:nth-child(2)
-xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4) > iframe.clipstore-results
-xhwebsite4.com###master_ntv > iframe:first-child
-xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.auto-generated-banner-container > a.auto-generated-banner
-xhwebsite4.com##.rendered.no-update.underplayer.wixx-ecams-widget
-xhwebsite4.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > a.xplayer-ads-block-companion.xplayer-ads-block__footer.xplayer-ads-block-companion--desktop
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4) > div.wixx-ecams-widget.vertical.no-update.null > div.item-container:nth-child(2)
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4) > iframe.clipstore-results
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.wixx-ebanner > div.wixx-ecams-widget.underplayer.no-update.rendered
+!!
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.wixx-ebanner.wixx-ebanner--flex-center > a > img
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.auto-generated-banner-container > a.auto-generated-banner
