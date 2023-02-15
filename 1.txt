@@ -18,20 +18,17 @@ google.com###maia-nav-x
 google.com###maia-main > div.editor:nth-child(6) > div.c1.ng-scope:last-child > button.ugc-button.md-button.md-ink-ripple > small.ng-scope:first-child
 www.google.com###maia-main > .maia-cols
 
+!block chat
+youtube.com###chat
 !remove brand logo
 youtube.com##.branding-img-container
 !block overlay pics
 youtube.com##.ytp-ad-overlay-image
-!block chat
-youtube.com###chat
 
 ! Hide Like count
 www.youtube.com##button.yt-spec-button-shape-next--segmented-start > .yt-spec-button-shape-next--button-text-content
-! Hide text of dislike/share/download/save buttons 
-www.youtube.com###info > * [id^="top-level-buttons"] [class*="button-renderer"] [id="text"]:not(:has-text(/\d/))
-www.youtube.com##.ytd-watch-metadata > .top-level-buttons #text:not(:has-text(/[\d]/))
+! Hide text of share/download
 www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
-www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next__icon:style(margin-right: -6px !important; margin-left: -6px !important;)
 
 !pre roll ads
 youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
