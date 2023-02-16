@@ -2,7 +2,7 @@
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Expires: 4 days
 ! Last modified: %timestamp%
-! Homepage: ! Homepage:  https://raw.githubusercontent.com/foejahmed/filter/main/1.txt
+! Homepage:      https://raw.githubusercontent.com/foejahmed/filter/main/1.txt
 ! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 !
 !
