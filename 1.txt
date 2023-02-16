@@ -24,9 +24,10 @@ youtube.com##.branding-img-container
 !block overlay pics
 youtube.com##.ytp-ad-overlay-image
 
-! Hide button  Like dislike Clip
-www.youtube.com##ytd-segmented-like-dislike-button-renderer.ytd-menu-renderer.style-scope
-www.youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(1) > yt-button-shape
+! Hide youtube Like count
+www.youtube.com##button.yt-spec-button-shape-next--segmented-start > .yt-spec-button-shape-next--button-text-content
+! Hide text of share/download
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
 
 !pre roll ads
 youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
