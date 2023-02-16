@@ -1,14 +1,12 @@
-[Adblock Plus 2.0]
-! Version: 20230216
-! Title: Foej Block List
-! Description: Filters optimized for uBlock
-! Last modified: 16 Feb 2023 06:08 UTC
-! Expires: 6 days (update frequency)
-! *** easylist:template_header.txt ***
+! Title: Block List other
+! Description: Filters optimized for uBlock, to be used along EasyList
+! Expires: 4 days
+! Last modified: %timestamp%
 ! Homepage:  https://raw.githubusercontent.com/foejahmed/filter/main/3.txt
+! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 !
 !
-! Hide Like count
+! Hide youtube Like count
 www.youtube.com##button.yt-spec-button-shape-next--segmented-start > .yt-spec-button-shape-next--button-text-content
 ! Hide text of share/download
 www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
