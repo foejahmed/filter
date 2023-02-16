@@ -24,8 +24,9 @@ youtube.com##.branding-img-container
 !block overlay pics
 youtube.com##.ytp-ad-overlay-image
 
-! Hide Like dislike
+! Hide button  Like dislike Clip
 www.youtube.com##ytd-segmented-like-dislike-button-renderer.ytd-menu-renderer.style-scope
+www.youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(1) > yt-button-shape
 
 !pre roll ads
 youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
