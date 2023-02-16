@@ -1,11 +1,9 @@
-[Adblock Plus 2.0]
-! Version: 20230216
 ! Title: Foej Block List
-! Description: Filters optimized for uBlock
-! Last modified: 16 Feb 2023 06:08 UTC
-! Expires: 6 days (update frequency)
-! *** easylist:template_header.txt ***
-! Homepage:  https://raw.githubusercontent.com/foejahmed/filter/main/1.txt
+! Description: Filters optimized for uBlock, to be used along EasyList
+! Expires: 4 days
+! Last modified: %timestamp%
+! Homepage: ! Homepage:  https://raw.githubusercontent.com/foejahmed/filter/main/1.txt
+! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 !
 !
 !fb popup notification  !frend request   !side bar ads
