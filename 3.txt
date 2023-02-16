@@ -41,6 +41,11 @@ youtube.com##.ytp-ce-element
 /^piwik\.[a-z0-9\-]*\./
 
 
+||google-analytics.com^$important                  
+||doubleclick.net^$important
+
+
+
 xvideos.com###video-ad 
 xvideos.com##+js(aopr, fuckAdBlock)
 xvideos.com###content > div:nth-child(2)
