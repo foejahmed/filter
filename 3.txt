@@ -1,4 +1,4 @@
-! Title: Block List other
+! Title: List other, chrome extension
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Expires: 4 days
 ! Last modified: %timestamp%
@@ -6,6 +6,20 @@
 ! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 !
 !
+one tab			Setting > When a tab group is restored, Duplicates
+Readme - Text to Speech TTS	https://chrome.google.com/webstore/detail/readme-text-to-speech-tts/npdkkcjlmhcnnaoobfdjndibfkkhhdfn
+hide downlaod bar 	https://chrome.google.com/webstore/detail/autohidedownloadsbar/gkmndgjgpolmikgnipipfekglbbgjcel
+
+right click		https://chrome.google.com/webstore/detail/supercopy-enable-copy/onepmapfbjohnegdmfhndpefjkppbjkm
+
+Copy All Urls 		https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk
+Tab Copy/Paste	
+
+adblock for chrome 	https://chrome.google.com/webstore/detail/adblock-for-chrome/onomjaelhagjjojbkcafidnepbfkpnee
+AdBlock Max - ad blocker	https://chrome.google.com/webstore/detail/adblock-max-ad-blocker/ggdpplfehdighdpleoegjefnpefgpgfh
+XB, block all ads	https://chrome.google.com/webstore/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh
+
+
 ! Hide youtube Like count
 www.youtube.com##button.yt-spec-button-shape-next--segmented-start > .yt-spec-button-shape-next--button-text-content
 ! Hide text of share/download
