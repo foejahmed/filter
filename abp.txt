@@ -9,9 +9,7 @@
 facebook.com##.x78zum5 .xi55695
 youtube.com##.branding-img-container
 youtube.com###chat
-youtube.com###segmented-like-button
-www.youtube.com###segmented-dislike-button
-youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(1)
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
 !!
 br.xhwebsite5.com##.rendered.no-update.underplayer.wixx-ecams-widget > .item-container
 xhwebsite5.com##header
