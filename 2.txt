@@ -1,12 +1,14 @@
-[ublock origin]
-! Version: 1.46.0
+[Adblock Plus 2.0]
+! Version: 20230216
 ! Title: Block List 2
 ! Description: Filters optimized for uBlock
-! Expires: update frequency
-! Last modified: %timestamp%
+! Last modified: 16 Feb 2023 06:08 UTC
+! Expires: 6 days (update frequency)
+! *** easylist:template_header.txt ***
 ! Homepage:  https://raw.githubusercontent.com/foejahmed/filter/main/2.txt
 !
-! block element
+!
+! block element 1
 ragalahari.com###st-2
 ragalahari.com###st-el-1
 ragalahari.com###caricature-continer
@@ -25,7 +27,7 @@ www.telugubulletin.com##.tdc-row-content-vert-center.tdc-element-style.td-pb-row
 ||google-analytics.com^$important                  
 ||doubleclick.net^$important
 
-! block element
+! block element 2
 www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
 www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
 www.xnxx.com###video-ad
