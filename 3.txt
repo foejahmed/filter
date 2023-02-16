@@ -42,7 +42,6 @@ boy18tube.com##.random-td
 429men.com##div.container:nth-child(3) > div.content:nth-child(4) > div.block-video:first-child > div.table:first-child
 
 !other
-xhamster3.com##.wio-p.wio-pplayer
 twinkvideos.com##.more-videos, .aside > div, #commentView
 onlygayvideo.com##.table
 onlygayvideo.com###list_videos_related_videos
