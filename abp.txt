@@ -1,0 +1,26 @@
+[Adblock Plus 2.0]
+! Version: 202302160608
+! Title: EasyList
+! Last modified: 16 Feb 2023 06:08 UTC
+! Expires: 6 days (update frequency)
+! *** easylist:template_header.txt ***
+!
+!
+facebook.com##.x78zum5 .xi55695
+youtube.com##.branding-img-container
+youtube.com###chat
+youtube.com###segmented-like-button
+www.youtube.com###segmented-dislike-button
+youtube.com###flexible-item-buttons > ytd-button-renderer.ytd-menu-renderer.style-scope:nth-of-type(1)
+!!
+br.xhwebsite5.com##.rendered.no-update.underplayer.wixx-ecams-widget > .item-container
+xhwebsite5.com##header
+xhwebsite5.com##.wixx-e.bottom-widget-section > .width-wrap
+xhwebsite5.com##.clipstore-bottom.width-wrap
+xhwebsite5.com##.video-thumb.wixx-ecam-thumb__look-like-item.wixx-ecam-thumb--live-red.wixx-ecam-thumb
+xhwebsite5.com###player-container > div.xplayer-banner-bottom:nth-child(4) > div.banner-wrapper:first-child > a:last-child > img
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4) > div.wixx-ecams-widget.vertical.no-update.null > div.item-container:nth-child(2)
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.wixx-eplayer.wixx-e:nth-child(4) > iframe.clipstore-results
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.wixx-ebanner > div.wixx-ecams-widget.underplayer.no-update.rendered
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.wixx-ebanner.wixx-ebanner--flex-center > a > img
+xhwebsite5.com##div.main-wrap:nth-child(2) > main:nth-child(2) > div.width-wrap.with-player-container:first-child > div.player-container:nth-child(5) > div:last-child > div.wixx-esp-b.wixx-esp-a > div.auto-generated-banner-container > a.auto-generated-banner
