@@ -8,15 +8,15 @@
 ! Homepage:  https://raw.githubusercontent.com/foejahmed/filter/main/3.txt
 !
 !
-xvideos.com###video-ad 
-xvideos.com##+js(aopr, fuckAdBlock)
-xvideos.com###content > div:nth-child(2)
-www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
-www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
-
-youtube.com###chat
-youtube.com##.ytp-ce-element	!end screen link
+! Hide Like count
+www.youtube.com##button.yt-spec-button-shape-next--segmented-start > .yt-spec-button-shape-next--button-text-content
+! Hide text of share/download
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
+!end screen link
+youtube.com##.ytp-ce-element	
+!pic
 *$script,3p,denyallow=cloudflare.net|fastly.net|google.com|googleapis.com|gstatic.com|jwpcdn.com|jsdelivr.net|eastream.net|youtube.com|ytimg.com,domain=vidfast.co
+
 
 !fb  hide comment for tab image saver addon        
  www.facebook.com##div.cwj9ozl2:nth-of-type(4)
@@ -28,6 +28,12 @@ youtube.com##.ytp-ce-element	!end screen link
 /^([a-z0-9\-]*\-)?telemetry(\-[a-z0-9\-]*)?\.[a-z0-9\-]*\./
 /^piwik\.[a-z0-9\-]*\./
 
+
+xvideos.com###video-ad 
+xvideos.com##+js(aopr, fuckAdBlock)
+xvideos.com###content > div:nth-child(2)
+www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
+www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
 
 !best
 pornmd.com##.suggestions-container
