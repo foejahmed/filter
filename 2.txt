@@ -26,10 +26,11 @@ www.telugubulletin.com##.tdc-row-content-vert-center.tdc-element-style.td-pb-row
 www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
 www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
 xvideos.com###header
+www.xvideos.com###v-actions > .tabs
 www.xnxx.com###video-ad
+www.xvideos.com##.thread-video-comments.x-thread
 xnxx.com##+js(aopr, fuckAdBlock)
 xnxx.com,xvideos.*###ad-footer
-www.xvideos.com##.thread-video-comments.x-thread
 www.3movs.com##.header
 www.3movs.com##.p-ig.playside
 www.3movs.com##.p-ig.breadcrumbs
