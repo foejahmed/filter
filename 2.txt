@@ -25,6 +25,7 @@ www.telugubulletin.com##.tdc-row-content-vert-center.tdc-element-style.td-pb-row
 ! block element 2
 www.xvideos.com##.is-filled.ad-support-desktop.ad-square.mobile-hide
 www.xvideos.com##.ad-support-desktop.is-filled.exo-ad-ins-container.mobile-hide
+xvideos.com###header
 www.xnxx.com###video-ad
 xnxx.com##+js(aopr, fuckAdBlock)
 xnxx.com,xvideos.*###ad-footer
