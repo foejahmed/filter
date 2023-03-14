@@ -17,6 +17,7 @@ ragalahari.com##.mybotcard-container
 ragalahari.com##.small-11.medium-3.column.btm-latestnews
 ragalahari.com###raga-header
 ragalahari.com##.show-for-large
+www.ragalahari.com###div-ub-ragalahari
 www.socialnews.xyz###mybotstagecrn
 www.socialnews.xyz##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
 www.telugubulletin.com##.tdc-row-content-vert-center.tdc-element-style.td-pb-row.wpb_row.tdi_25.vc_row
